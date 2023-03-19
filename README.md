@@ -6,7 +6,8 @@
 | -------------  | --- |
 | :sparkles: Nome        | Pokédex ![favicon-16x16](https://user-images.githubusercontent.com/102471647/211162072-7e31aec7-4bdc-4bd2-beaa-10fcb33d46bf.png)
 | :label: Tecnologias | ![](https://img.shields.io/badge/-HTML%20%7C%20CSS%20%7C%20JS-blue)
-| :rocket: URL         | https://youtu.be/vL5YgDwUx4k | https://pokedex-lemon-three.vercel.app/
+| :rocket: URL         | https://youtu.be/vL5YgDwUx4k
+| https://pokedex-lemon-three.vercel.app/ 
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
